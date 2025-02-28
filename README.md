@@ -36,6 +36,6 @@ If you use this dataset in your research, please cite it as follows:
 Mu, Li. (2025). Longitudinal IRSD Dataset for Australia (2006–2021). GitHub repository. URL
 
 ## License
-This repository is licensed under the MIT License.
+This repository is licensed under the GPL v3.0 License.
 
 For further details or questions, please refer to this README or contact the repository maintainer.
