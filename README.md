@@ -2,6 +2,13 @@
 
 This repository provides the processed dataset for the Longitudinal Index of Relative Socio-Economic Disadvantage (LIRSD) in Australia (2006–2021). The dataset includes index scores for both the unweighted (LIRSD) and population-weighted (WLIRSD) versions, along with a secondary principal component (WLIRSD-PC2) that captures additional dimensions of disadvantage.
 
+
+## Repository Location
+
+This dataset, along with its detailed documentation, is also available in the Appendix of the thesis. You can access the repository online at:  
+[https://github.com/MoooooLee/Longitudinal-IRSD-Data/tree/main](https://github.com/MoooooLee/Longitudinal-IRSD-Data/tree/main)
+
+
 ## Dataset Description
 
 The CSV file contains one record per geographic area (e.g., SA2 or SA3) for each census year. Key variables include:
@@ -33,11 +40,12 @@ The LIRSD/WLIRSD dataset was produced using the following steps:
 
 5. **Quality Assurance:** Data exclusion rules and imputation methods were employed to address missing values and ensure the robustness of the index.
 
+
 ## Citation
 
 If you use this dataset in your research, please cite it as follows:
 
-Mu, Li. (2025). Longitudinal IRSD Dataset for Australia (2006–2021). GitHub repository. [URL]
+Mu, Li. (2025). Longitudinal IRSD Dataset for Australia (2006–2021). GitHub repository. url: https://github.com/MoooooLee/Longitudinal-IRSD-Data/tree/main 
 
 ## License
 
